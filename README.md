@@ -1,18 +1,14 @@
- 
-
  <h1 align="center">Hi 👋, I'm Mehwar Medhi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> 
-  Hello World .... </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehwarmedhi&label=Profile%20views&color=0e75b6&style=flat" alt="mehwarmedhi" /> </p>
 
 - 👯 I’m looking to collaborate on **Gst billing Project**
 
-      <img align="right" alt="cooding" width="500"  src="![Uploading 140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif…]()
-" alt="">
 - ⚡ Fun fact **I'm 😀**
 
 <h3 align="left">Connect with me:</h3>
+    <img  style="align-items: right" src="cooding" alt="c:\Users\Asus\Desktop\140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="450">
 <p align="left">
 </p>
 
