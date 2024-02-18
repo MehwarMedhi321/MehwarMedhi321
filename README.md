@@ -6,7 +6,7 @@
 - 👯 I’m looking to collaborate on **Gst billing Project**
 
 - ⚡ Fun fact **I'm 😀**
-    <img  align:"right" src="140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"  alt="cooding" width="450">
+    <img  align="right" src="140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif"  alt="cooding" width="450">
 <h3 align="left">Connect with me:</h3>
 
 
