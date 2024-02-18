@@ -3,7 +3,9 @@
  <h1 align="center">Hi 👋, I'm Mehwar Medhi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mehwarmedhi&label=Profile%20views&color=0e75b6&style=flat" alt="mehwarmedhi" /> </p>
+<p align="left"> 
+ <img src="![image](https://github.com/MehwarMedhi321/MehwarMedhi321/assets/154052609/bfbfef2e-1fd1-4144-bfff-8992c6f58551)
+" alt="mehwarmedhi" /> </p>
 
 - 👯 I’m looking to collaborate on **Gst billing Project**
 
