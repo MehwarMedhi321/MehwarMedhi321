@@ -6,7 +6,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehwarmedhi&label=Profile%20views&color=0e75b6&style=flat" alt="mehwarmedhi" /> </p>
 
 - 👯 I’m looking to collaborate on **Gst billing Project**
- <img align="right" alt="cooding" width="500" src="![Uploading 140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif…]()">
+
+      <img align="right" alt="cooding" width="500"  src="" alt="C:\Users\Asus\Downloads\140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 - ⚡ Fun fact **I'm 😀**
 
 <h3 align="left">Connect with me:</h3>
