@@ -1,6 +1,5 @@
  
- <img align="right" alt="cooding" width="500" src="![image](https://github.com/MehwarMedhi321/MehwarMedhi321/assets/154052609/fec47c44-7c3e-4aed-86a7-5b4bfcfff2a7)
-">
+ <img align="right" alt="cooding" width="500" src="140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
  <h1 align="center">Hi 👋, I'm Mehwar Medhi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
