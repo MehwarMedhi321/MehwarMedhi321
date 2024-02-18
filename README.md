@@ -6,10 +6,10 @@
 - 👯 I’m looking to collaborate on **Gst billing Project**
 
 - ⚡ Fun fact **I'm 😀**
-
+    <img  style="align-items: right" src="cooding" alt="140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="450">
 <h3 align="left">Connect with me:</h3>
 
-    <img  style="align-items: right" src="cooding" alt="C:\Users\Asus\Downloads\140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" width="450">
+
 <p align="left">
 </p>
 
