@@ -1,5 +1,5 @@
  
- <img align="right" alt="cooding" width="500" src="140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+ <img align="right" alt="cooding" width="500" src="![Uploading 140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif…]()">
  <h1 align="center">Hi 👋, I'm Mehwar Medhi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
