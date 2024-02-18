@@ -4,12 +4,12 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> 
- <img src="![image](https://github.com/MehwarMedhi321/MehwarMedhi321/assets/154052609/bfbfef2e-1fd1-4144-bfff-8992c6f58551)
-" alt="mehwarmedhi" /> </p>
+  Hello World .... </p>
 
 - 👯 I’m looking to collaborate on **Gst billing Project**
 
-      <img align="right" alt="cooding" width="500"  src="" alt="C:\Users\Asus\Downloads\140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+      <img align="right" alt="cooding" width="500"  src="![Uploading 140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif…]()
+" alt="">
 - ⚡ Fun fact **I'm 😀**
 
 <h3 align="left">Connect with me:</h3>
