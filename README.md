@@ -1,5 +1,5 @@
  ![logo](https://github.com/Mehwarzaidi/Mehwarzaidi/blob/main/InShot_20231227_012556170.jpg)
-<h1 align="center">Hi 👋, I'm MEHWAR ZAIDI</h1>
+<h1 align="center">Hi 👋, I'm MEHWAR MEDHI</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mehwarzaidi&label=Profile%20views&color=0e75b6&style=flat" alt="mehwarzaidi" /> </p>
